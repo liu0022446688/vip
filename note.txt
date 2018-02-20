@@ -1,0 +1,19 @@
+一、课程安排
+VIP客户查询
+录入VIP客户
+VIP客户管理
+
+二、VIP客户查询
+关键技术点:
+	VO的封装
+	VIP等级信息在系统启动时的查询
+	WebApplicationContextUtils工具类的使用
+三、录入VIP客户
+关键技术点:
+	AO封装
+	参数验证
+	UUID生成
+	用户输入保留
+	UTF-8字符编码过滤器配置
+四、VIP客户管理
+关键技术点:
